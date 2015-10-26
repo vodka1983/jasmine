@@ -1,0 +1,19 @@
+{
+  "name": "testjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vodka1983/jasmine.git"
+  },
+  "author": "AG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vodka1983/jasmine/issues"
+  },
+  "homepage": "https://github.com/vodka1983/jasmine#readme"
+}
